@@ -1,9 +1,9 @@
 {
   "name": "material-kit-react",
   "version": "3.0.0",
-  "author": "Devias",
+  "author": "Nicos",
   "licence": "MIT",
-  "homepage": "https://devias.io",
+  "homepage": "https://wdnndj-3000.csb.app/",
   "private": false,
   "scripts": {
     "dev": "next",

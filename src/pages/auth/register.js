@@ -48,7 +48,7 @@ const Page = () => {
     <>
       <Head>
         <title>
-          Register | Devias Kit
+          Register | SCT Centre
         </title>
       </Head>
       <Box
@@ -110,7 +110,7 @@ const Page = () => {
                   error={!!(formik.touched.email && formik.errors.email)}
                   fullWidth
                   helperText={formik.touched.email && formik.errors.email}
-                  label="Email Address"
+                  label="Indirizzo Email"
                   name="email"
                   onBlur={formik.handleBlur}
                   onChange={formik.handleChange}
